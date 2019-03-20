@@ -6,3 +6,4 @@ mm.ppp<-ppp(newdata3$qx,newdata3$qy,window=owin(xrange=c(0,16),yrange=c(0,6)))
 ds<-density(mm.ppp,bw="nrdo",adjust = 1.5)
 plot(ds,main='鏍稿瘑搴﹀垎鏋愬浘')
 detach(data)
+https://github.com/zg456asd/cuddly-memory/blob/master/411.png
