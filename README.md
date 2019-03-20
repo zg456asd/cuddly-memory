@@ -1,4 +1,5 @@
-# cuddly-memory
+# 4.核密度分析
+
 
 #灏嗕綅缃潗鏍囦粠dataframe涓彁鍙栧嚭鏉?
 mm.ppp<-ppp(newdata3$qx,newdata3$qy,window=owin(xrange=c(0,16),yrange=c(0,6)))
